@@ -1,0 +1,15 @@
+/* Trending.css */
+
+.slider-container {
+    padding: 20px;
+  }
+  
+  .theme_common_box_two {
+}
+
+.theme_common_box_two.img_hover.slider-container .theme_two_box_img img {
+  width: 100%; /* Set a fixed width for all images */
+  height: 200px; /* Set a fixed height for all images */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+}
+  
